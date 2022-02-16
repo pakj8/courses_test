@@ -20,5 +20,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "17.3.1"
+  }
 }
